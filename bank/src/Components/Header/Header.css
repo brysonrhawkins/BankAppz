@@ -1,0 +1,11 @@
+.Logo{
+    position: absolute;
+    top: 0vh;
+}
+
+.Links {
+    position: absolute;
+    top: 0vh;;
+    right: 0vw;
+    margin-right: 10vw;
+}
